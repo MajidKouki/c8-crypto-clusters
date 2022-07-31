@@ -47,7 +47,7 @@ This project is primarily intended to be used as an analysis of data. The code c
 
 ## Contributors
 
-Brought to you by Majid Kouki. You can reach me at [majidkpy@gmail.com](mailto:majidkpy@gmail.com)
+Brought to you by Majid Kouki. You can reach me at [majidkpy@gmail.com](mailto:majidkpy@gmail.com).
 
 ---
 
